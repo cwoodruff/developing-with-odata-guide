@@ -15,4 +15,5 @@
 * [Consuming OData with Xamarin](12-chapter-10-consuming_odata_with_xamarin.md)
 * [Working with OData in SQL Server Reporting Services](13-chapter-11-working_with_odata_in_sql_server_reporting_services.md)
 * [Working with OData in Microsoft Excel](14-chapter-12-working_with_odata_in_microsoft_excel.md)
+* Appendix
 
