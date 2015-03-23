@@ -4,5 +4,5 @@
 * [Preface](01-preface.md)
 * [Forward](02-forward.md)
 * [Introduction of OData](03-chapter-01-introduction.md)
-* Creating a OData Feed with ASP.NET Web API RESTier
+* [Creating a OData Feed with ASP.NET Web API RESTier](04-chapter-02-creating_a_odata_feed_with_aspnet_web_api_restier.md)
 
