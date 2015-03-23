@@ -7,5 +7,5 @@
 * [Creating a OData Feed with ASP.NET Web API RESTier](04-chapter-02-creating_a_odata_feed_with_aspnet_web_api_restier.md)
 * [Creating a OData Feed with ASP.NET Web API](05-chapter-03-creating_a_odata_feed_with_aspnet_web_api.md)
 * [Hosting OData feeds in Windows Azure](06-chapter-04-hosting_odata_feeds_in_windows_azure.md)
-* Accessing OData from LINQ
+* [Accessing OData from LINQ](07-chapter-05-accessing_odata_from_linq.md)
 
