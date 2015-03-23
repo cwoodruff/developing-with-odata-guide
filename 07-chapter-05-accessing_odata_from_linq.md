@@ -1,0 +1,2 @@
+# Accessing OData from LINQ
+
