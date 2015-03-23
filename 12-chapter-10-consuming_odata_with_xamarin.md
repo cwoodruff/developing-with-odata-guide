@@ -1,2 +1,0 @@
-# Consuming OData with Xamarin
-
