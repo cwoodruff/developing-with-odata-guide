@@ -10,5 +10,5 @@
 * [Accessing OData from LINQ](07-chapter-05-accessing_odata_from_linq.md)
 * [Consuming OData from ASP.NET MVC](c08-chapter-06-onsuming_odata_from_aspnet_mvc.md)
 * [Consuming OData with Javascript](09-chapter-07-consuming_odata_with_javascript.md)
-* Consuming OData with Windows Universal Apps and WinJS
+* [Consuming OData with Windows Universal Apps and WinJS](10-chapter-08-consuming_odata_with_windows_universal_apps_and_winjs.md)
 
