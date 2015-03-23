@@ -9,5 +9,5 @@
 * [Hosting OData feeds in Windows Azure](06-chapter-04-hosting_odata_feeds_in_windows_azure.md)
 * [Accessing OData from LINQ](07-chapter-05-accessing_odata_from_linq.md)
 * [Consuming OData from ASP.NET MVC](c08-chapter-06-onsuming_odata_from_aspnet_mvc.md)
-* Consuming OData with Javascript
+* [Consuming OData with Javascript](09-chapter-07-consuming_odata_with_javascript.md)
 
