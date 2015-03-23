@@ -12,5 +12,5 @@
 * [Consuming OData with Javascript](09-chapter-07-consuming_odata_with_javascript.md)
 * [Consuming OData with Windows Universal Apps and WinJS](10-chapter-08-consuming_odata_with_windows_universal_apps_and_winjs.md)
 * [Consuming OData with Windows Universal Apps and XAML](11-chapter-09-consuming_odata_with_windows_universal_apps_and_xaml.md)
-* Consuming OData with Xamarin
+* [Consuming OData with Xamarin](12-chapter-10-consuming_odata_with_xamarin.md)
 
